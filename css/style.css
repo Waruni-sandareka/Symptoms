@@ -334,7 +334,7 @@ section:nth-child(even){
 }
 
 .review .box-container .box h3{
-    color:#fff;
+    color:rgb(230, 141, 141);
     font-size: 2.2rem;
     padding:.5rem 0;
 }
